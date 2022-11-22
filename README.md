@@ -39,6 +39,7 @@ Dans leur publication NOVA.The star shines bright, le chercheur Carlos Monteiro 
 
 ### Construction de la classification
 La classification NOVA sépare ainsi les aliments en 4 différents groupes selon leur degré de transformation. 
+![Classification-NOVA-2_1](https://user-images.githubusercontent.com/115630287/203441067-c96e36ad-8706-4856-a4bb-cedf7ec6efa2.png)
 
 Les aliments de groupe 1 sont des ingrédients bruts ou peu transformés. Les aliments peu transformés sont par exemple ceux résultant d’un processus simple de torréfaction, séchage, pasteurisation ou filtrage. 
 
@@ -53,6 +54,7 @@ Les ingrédients du groupe 4 sont les aliments ultra-transformés. Leur définit
 
 ### Apport de la classification NOVA
 La classification NOVA est aujourd’hui reconnue mondialement en étant citée dans les rapports de la FAO (Food and Agriculture Organization), de l’OMS, de la Pan American Health Organization ou de nombreuses autres études académiques. Elle a par exemple été utilisée pour mesurer la vente de produits ultra-transformés dans 79 pays, pour la prévention contre les maladies non transmissibles ou même pour établir des guides alimentaires nationaux (Guide Uruguayen, Guide Brésilien, Guide Canadien). 
+![Article-sucres_1](https://user-images.githubusercontent.com/115630287/203441290-25bdfeaf-493a-42f5-b7c7-b31c7484e367.png)
 
 Site de SIGA :  DE LA CLASSIFICATION NOVA À LA CLASSIFICATION SIGA, POINTS COMMUNS ET DIFFÉRENCES. 
 
