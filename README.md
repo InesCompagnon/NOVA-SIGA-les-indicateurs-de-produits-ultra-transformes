@@ -21,3 +21,78 @@ Matrice d’un aliment = “structure physique qui influence le degré de mastic
 Produits ultra-transformés = “L’aliment d’origine a subi d’intenses transformations physiques, chimiques ou biologiques par des procédés industriels (par exemple : fractionnement d’un aliment en de multiple composants – craking - prétraitement par friture, chauffage à très haute température…). Des additifs et/ou ingrédients (maltodetxrine, huiles hydrogénées, amidon modifié…) réservés à l’usage industriel et qui ne sont pas utilisés en cuisine à la maison, sont souvent ajoutés pour arriver au produit final que l’on retrouve dans nos rayons.” (site gouvernemental MangerBouger.fr)
 
 Transition alimentaire = “désigne dans son acception globale le processus par lequel une société modifie sa manière de produire et de consommer des aliments. Au sens premier, le modèle de la transition alimentaire est un modèle d'évolution développé dans les années 2000. Il reprend le modèle de « transition nutritionnelle » introduit dans les années 1990 par des nutritionnistes (Popkin, 1993)..” (Géoconfluence)
+
+## Qu’est ce que SIGA ?
+Histoire, conception, usages 
+
+“une démarche scientifique pour manger vrai et vivre mieux”
+
+Il s’agit d’un score scientifique utilisé pour évaluer le niveau de transformation des aliments. Le but ? Permettre aux consommateurs de choisir des aliments, plus naturels, plus simples et donc moins transformés. 
+
+### La démarche SIGA    
+
+Le cœur de la démarche de SIGA est la suivante: étudier la structure des aliments signifie se poser la question de la transformation des ingrédients qui les composent. Selon les équipes de SIGA, le potentiel santé d’un aliment ne peut plus être réduit à sa seule qualité nutritionnelle telle les quantités de gras, de protéines, de fibres, de sucres, de sels, etc… Il faut également tenir compte de la qualité globale de l’aliment, de sa structure et de celle de ses ingrédients. La matrice, c’est-à-dire la structure d’un aliment, a un impact direct sur la façon dont il est métabolisé par l’organisme. Pour pouvoir l’étudier, il faut alors comprendre les ingrédients qui sont utilisés; par quels processus les ingrédients ont été obtenus, les sucres sont-ils naturels ou ajoutés ? …  
+
+SIGA prône une approche globale pour étudier et améliorer la qualité de ce que contiennent nos assiettes car il ne faut pas réduire un aliment à sa composition nutritionnelle. 
+
+### Sur quelles sources se base l’étude SIGA? 
+
+SIGA s’appuie sur des travaux menés par de nombreuses équipes de recherches à travers le monde autour de la classification NOVA sur le sujet de l’ultra-transformation. Ces études mettent en cause les régimes à base de produits ultra-transformés dans le développement de cancers ou de maladies chroniques comme l’hypertension, l’obésité, etc… 
+
+Par ailleurs, SIGA est composée d’un comité d’experts pluridisciplinaire dont les membres peuvent conseiller sur les directions à prendre. 
+
+### La classification SIGA 
+
+
+Les recettes des produits sont évaluées selon les critères suivants:
+le degré de transformation des ingrédients selon la réglementation européenne et la documentation technique
+l’évaluation de risque des additifs et des ingrédients sur la base des avis émis par l’Organisation Mondiale de la Santé, la European Food Safety Authority et l’Agence Nationale de Sécurité Sanitaire de l’Alimentation, de l’Environnement et du Travail 
+les seuils nutritionnels fixés la Food Standard Agency (UK) en cas d’ajout de gras, sucres ou sel dans l’aliment étudié 
+
+
+Il y a trois grandes catégories (A,B et C), elles-mêmes divisées en sous catégories. 
+
+1- A0: aliments non transformés : il s’agit de produits bruts comme les fruits, légumes, poissons, céréales, … n’ayant subi aucun process hors pelage ou découpe. 
+
+2- A1, A2: aliments peu transformés dont les produits culinaires: ces aliments ont subi des procédés de transformation simples comme le pressage ou la cuisson. Ils sont donc positionnés comme peu transformés. 
+
+3- B1: aliments transformés équilibrés : il s’agit d’aliments équilibrés comme le pain ou les poissons en conserve. Il suffit que du sucre, des matières grasses ou du sel soit ajouté pour être considéré comme un produit transformé. 
+
+4- B2: aliments transformés gourmands: contrairement aux aliments équilibrés nutritionnellement, les aliments appelés “gourmands” présentent des quantités de gras, sels et/ou sucres élevées. 
+
+5- C01: ultra transformés équilibrés : il s’agit des ultra-transformés les plus acceptables car ils présentent un seul marqueur d’ultra-transformation (additif ou ingrédient) et un profil nutritionnel qui est équilibré. Ils sont donc proches de leurs équivalents simplement transformés.
+
+6- C02: ultra transformés gourmands : comme les aliments transformés, ils peuvent présenter des niveaux de gras, sels et sucres élevés. 
+
+7- C1,C2,C3: aliments ultra-transformés à limiter : la consommation de ces produits n’est pas recommandée par SIGA et devrait être très occasionnelle. 
+
+
+
+
+
+https://siga.care/indice-siga/
+
+En plus de ce sigle, SIGA attribue des médailles à des produits. La médaille d’or est pour les meilleurs élèves, elle indique dans chaque catégorie de produits les meilleures recettes. Il s’agit par exemple du cookie “super fin et croustillant aux éclats de chocolat noir” de Michel et Augustin, bien que ce produit soit chiffré 4, transformé et gourmand ou encore de la soupe Innocent Gazpacho. 
+https://siga.care/indice-siga/
+
+Il y a également la médaille d’argent, attribuée aux bons élèves. Cette dernière indique les articles qui se distinguent de la concurrence du fait de leur recette ou composition. 
+
+
+### La promotion d’un régime alimentaire préventif
+
+Les instances gouvernementales préconisent désormais la diminution de la consommation d’aliments ultra-transformés. SIGA soutient cette adoption de régime préventif basé sur les 3V (Végétal, Vrai et Varié). Ce régime préventif nous invite à réduire les consommations excessives de viande et de produits ultra-transformés. Il incite à diversifier les sources des calories que nous absorbons. 
+
+### La mission et les convictions de SIGA 
+
+Les équipes de SIGA appellent toutes les parties prenantes de la chaîne agro-alimentaire à collaborer pour proposer au consommateur des produits plus simples et plus sains. SIGA prône une alimentation consciente, durable, variée, vraie et principalement végétale. Les équipes SIGA sont convaincues “que le consommateur doit être informé et éduqué à cette nouvelle vision de l’alimentation pour pouvoir faire des choix éclairés dans le cadre d’une expérience décomplexée.” 
+
+
+
+L’application SIGA permet de bien choisir ses produits en scannant les produits et en découvrant ainsi leur degrés de transformation. Il permet d’avoir accès à son profil nutritionnel, aux additifs détectés, … Elle propose également des alternatives aux produits trop transformés. 
+
+
+
+https://siga.care/indice-siga/ 
+
+
+Source: site SIGA 
