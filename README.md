@@ -22,6 +22,49 @@ Produits ultra-transformés = “L’aliment d’origine a subi d’intenses tra
 
 Transition alimentaire = “désigne dans son acception globale le processus par lequel une société modifie sa manière de produire et de consommer des aliments. Au sens premier, le modèle de la transition alimentaire est un modèle d'évolution développé dans les années 2000. Il reprend le modèle de « transition nutritionnelle » introduit dans les années 1990 par des nutritionnistes (Popkin, 1993)..” (Géoconfluence)
 
+## Qu'est ce que NOVA ? 
+Histoire, conception, usages
+
+En 2001, la France se dote de son 1er PNNS (Programme National Nutrition Santé), devenant ainsi le 1er pays européen à adopter une stratégie nutritionnelle générale afin de prévenir les risques de santé liés à une mauvaise alimentation (obésité, maladies). Les PNNS visent tout d’abord à faire de la prévention à l’image des slogans publicitaires Ne mangez pas trop gras, trop sucré, trop salé ou pour votre santé ou mangez au moins 5 fruits et légumes par jour. 
+Les régimes alimentaires ont effectivement connu des évolutions fortes, aujourd’hui responsables d'une hausse des maladies chroniques type diabète, maladies cardio-vasculaires ou obésité et surpoids. Plusieurs raisons expliquent ces tendances notamment des apports caloriques plus importants que nécessaire (en particulier dans les pays du Nord), une consommation plus importante de produits sucrés, de graisses saturées mais aussi une augmentation de la transformation industrielle des aliments. Alors devrait-on ajouter le slogan préférez les produits simples et limitez les produits ultra-transformés ? 
+
+### Historique de la classification NOVA
+Auparavant, les chercheurs appréciaient les risques de développer une maladie chronique selon une vision plutôt réductionniste. En effet, le degré de transformation était peu pris en compte dans les études associant alimentation et santé. Si c’était le cas, l’analyse était spécifique à certains produits par exemple la consommation de céréales complètes par rapport à des céréales raffinées ou de fruits frais contre des jus de fruits. Or, on s’apercevait petit à petit que la consommation de 5 fruits et légumes frais n'avait pas les mêmes effets que la consommation de leurs équivalents transformés. 
+
+Une équipe de recherche brésilienne dirigée par Carlos Monteiro s'est ainsi aperçue que les populations brésiliennes les plus touchées par les maladies chroniques comme le diabète de type 2 ou l’obésité étaient aussi celles qui consommaient en majorité des produits très transformés. Les chercheurs montrent ainsi qu’un aliment se distingue de la simple somme des nutriments en étant un élément holistique. 
+
+Afin de pouvoir mieux catégoriser les aliments, les chercheurs mettent au point une classification pour trier les produits alimentaires en fonction de leur degré de transformation. Celle-ci est donc créée en 2010 sous le nom de NOVA qui signifie nouveau en portugais. L’objectif est ainsi de créer un code simple et promouvoir les “vrais aliments” comme produits plus sains. 
+Dans leur publication NOVA.The star shines bright, le chercheur Carlos Monteiro et son équipe décrivent la philosophie et les fondements de la classification. 
+
+
+### Construction de la classification
+La classification NOVA sépare ainsi les aliments en 4 différents groupes selon leur degré de transformation. 
+
+Les aliments de groupe 1 sont des ingrédients bruts ou peu transformés. Les aliments peu transformés sont par exemple ceux résultant d’un processus simple de torréfaction, séchage, pasteurisation ou filtrage. 
+
+Les ingrédients culinaires du groupe 2 sont ceux qui, à l’instar des aromates, seront ajoutés aux plats avec parcimonie comme le beurre, le sucre, le sel, le miel… Ils restent des ingrédients simples et naturels mais rarement consommés sans les aliments du groupe 1.  
+Le groupe 3 regroupe les aliments transformés qui résultent du mélange d’ingrédients des groupes 1 et 2. Ces produits peuvent être simples, peu ou pas transformés comme le pain, le fromage ou un bœuf bourguignon fait maison. Leur transformation est ainsi “naturelle’ contrairement aux aliments du groupe 4. 
+
+Les ingrédients du groupe 4 sont les aliments ultra-transformés. Leur définition est toutefois assez peu précise. La classification précise tout d’abord qu’ils concentrent généralement 5 ingrédients ou plus et que les aliments du groupe 1 ne représentent qu’une proportion faible ou (quasi)absente des aliments ultra transformés. On retrouve des substances seulement présentes dans ce type d’aliments qui sont directement issues de procédés industriels. Il y a par exemple les additifs industriels servant à modifier le goût, l’apparence, la conservation comme les arômes artificiels, les émulsifiants, les colorants ou les conservateurs. Il y a également des ingrédients extraits directement d’aliments suite à des procédés industriels comme le “cracking alimentaire”, l'hydrolyse ou l’hydrogénation permettant d’obtenir des amidons de maïs modifiés, des isolats de protéine, du sirop de glucose-fructose ou de l’huile de palme hydrogénée pour ne citer qu’eux. Tous ces procédés contribuent à la dégradation des produits d’origine et résultent en des apports énergétiques plus importants pour une plus faible part des micronutriments protecteurs. 
+
+
+
+
+
+### Apport de la classification NOVA
+La classification NOVA est aujourd’hui reconnue mondialement en étant citée dans les rapports de la FAO (Food and Agriculture Organization), de l’OMS, de la Pan American Health Organization ou de nombreuses autres études académiques. Elle a par exemple été utilisée pour mesurer la vente de produits ultra-transformés dans 79 pays, pour la prévention contre les maladies non transmissibles ou même pour établir des guides alimentaires nationaux (Guide Uruguayen, Guide Brésilien, Guide Canadien). 
+
+Site de SIGA :  DE LA CLASSIFICATION NOVA À LA CLASSIFICATION SIGA, POINTS COMMUNS ET DIFFÉRENCES. 
+
+
+Ce score a également été utilisé en France, notamment dans les travaux de l’INRAE ou de la cohorte Nutri-Net Santé.
+Le débat autour de la transformation des aliments est grandissant avec par exemple la recommandation du Haut Conseil pour la Santé Publique en 2018 de diminuer notre consommation d’aliments ultra-transformés de 20% d’ici 2021. Ces recommandations se retrouvent dans le Plan National Nutrition Santé (PNNS) qui a, depuis sa première version, inclut des recommandations en matière de transformation des aliments. On estime aujourd’hui à ⅓, la part des aliments ultra transformés dans la consommation moyenne d’un français et celle-ci varie en fonction de facteurs économiques et culturels ce qui contribue à des conditions de santé plus dégradées chez les ménages plus modestes. 
+
+
+### Conclusion 
+La classification NOVA a ainsi servi de bases pour de nombreuses études académiques et programmes gouvernementaux. Elle a toutefois aussi été visée par des critiques qui a donné lieu à la création d’un nouvel indicateur, SIGA, que nous verrons dans nos articles suivants.
+
+
 ## Qu’est ce que SIGA ?
 Histoire, conception, usages 
 
@@ -94,3 +137,5 @@ L’application SIGA permet de bien choisir ses produits en scannant les produit
 https://siga.care/indice-siga/
 
 Source: site SIGA 
+
+
