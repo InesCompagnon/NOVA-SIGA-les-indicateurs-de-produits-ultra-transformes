@@ -166,3 +166,35 @@ Deuxièmement, lors de notre enquête, nous avons été grandement surpris.e.s d
 ## Conclusion
 Pour conclure, cette enquête a été très instructive et nos hypothèses initiales ont été quelque peu challengées. Bien qu’il en ressorte que la composition des aliments intéresse et est considérée par les consommateurs lors de leurs achats, c’est l’incompréhension de celle-ci qui semble le plus universel chez nos répondants et dans la littérature lue. Ainsi, notre enquête souligne la volonté des consommateurs à “bien s’alimenter” mais également la préeminence du questionnement “qu’est ce que ça veut dire et comment faire ?”. Les consommateurs mettent en avant la complexité des additifs et la méconnaissance de la définition exacte du terme “aliments ultra transformés”. Ainsi, les indicateurs NOVA et SIGA apparaissent comme utiles et répondent à une demande des consommateurs. Il est donc étonnant de percevoir la faible connaissance et très faible utilisation par le grand public des outils des indicateurs (applications, sites web,...). Cette difficulté à s’imposer chez les consommateurs n’est donc pas due à un manque d’intérêt par ces derniers, manger des aliments le moins transformé possible représente de plus en plus une priorité pour les consommateurs. Cela pourrait davantage être dû aux liens trop fort des indicateurs avec l’industrie agroalimentaire, les industriels apparaissant donc comme les premiers clients de NOVA et SIGA. Ces liens semblent cependant inévitables pour le moment car les données des industriels sont les premières sources des deux indicateurs. 
 
+## Bibliographie:
+
+https://www.quechoisir.org/actualite-application-alimentaire-siga-oublie-l-equilibre-nutritionnel-n82715/
+
+ « Ces aliments qui nous empoisonnent (2018) ». 60 Millions de Consommateurs, https://www.60millions-mag.com/kiosque/ces-aliments-qui-nous-empoisonnent-2018.
+
+« Comment l’alimentation ultratransformée affecte notre santé ». Le Monde.fr, 30 mai 2019. Le Monde, https://www.lemonde.fr/sante/article/2019/05/30/comment-l-alimentation-ultratransformee-affecte-notre-sante_5469345_1651302.html.
+
+« Peut-on vraiment faire confiance aux applis alimentaires ? » Les Echos Start, 19 décembre 2019, https://start.lesechos.fr/societe/culture-tendances/peut-on-vraiment-faire-confiance-aux-applis-alimentaires-1174844.
+
+
+Assemblée Nationale, « Compte rendu n°9 », Commission d’enquête sur l’alimentation industrielle : qualité nutritionnelle, rôle dans l’émergence de pathologies chroniques, impact social et environnemental de sa provenance,‎ 6 juin 2018 
+
+
+https://siga.care
+
+« Aliments ultratransformés – Nova et Siga : deux classifications pour é… ». Consulté le 13 novembre 2022. https://www.quechoisir.org/decryptage-aliments-ultratransformes-nova-et-siga-deux-classifications-pour-evaluer-le-niveau-de-transformation-n78543/.
+
+INRAE Institutionnel. « Consommation d’aliments ultra-transformés et risque de maladies cardiovasculaires ». Consulté le 14 novembre 2022. https://www.inrae.fr/actualites/consommation-daliments-ultra-transformes-risque-maladies-cardiovasculaires.
+
+ScanUp. « Degré de transformation des aliments : la classification NOVA ». Consulté le 14 novembre 2022. https://scanup.fr/degre-de-transformation-des-aliments-la-classification-nova/.
+
+Ebner, Pamela. « De la classification NOVA à la classification Siga, quelles différences ? » Siga, 27 juin 2019. https://siga.care/blog/classification-nova-et-classification-siga/.
+
+France Culinaire Développement. « Le nutri-score & la classification NOVA », 2 juillet 2020. https://www.france-culinaire.com/2020/07/02/le-nutri-score-la-classification-nova/.
+
+Monteiro, Carlos A., Geoffrey Cannon, Renata Levy, Jean-Claude Moubarac, Patricia Jaime, Ana Paula Martins, Daniela Canella, Maria Louzada, et Diana Parra. « NOVA. The Star Shines Bright ». World Nutrition 7, nᵒ 1‑3 (7 janvier 2016): 28‑38.
+« NOVA (nutrition) ». In Wikipédia, 13 octobre 2022. https://fr.wikipedia.org/w/index.php?title=NOVA_(nutrition)&oldid=197731772.
+
+INRAE Institutionnel. « Nutri-score, NOVA, bio… Comment mieux informer sur les effets « santé » des aliments ? » Consulté le 14 novembre 2022. https://www.inrae.fr/actualites/nutri-score-nova-bio-comment-mieux-informer-effets-sante-aliments.
+
+INRAE Institutionnel. « Transformation des aliments : à la recherche d’un système de classification fiable ». Consulté le 14 novembre 2022. https://www.inrae.fr/actualites/transformation-aliments-recherche-dun-systeme-classification-fiable.
