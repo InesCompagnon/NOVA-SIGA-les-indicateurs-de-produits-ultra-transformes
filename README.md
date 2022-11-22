@@ -66,11 +66,8 @@ Il y a trois grandes catégories (A,B et C), elles-mêmes divisées en sous cat�
 
 7- C1,C2,C3: aliments ultra-transformés à limiter : la consommation de ces produits n’est pas recommandée par SIGA et devrait être très occasionnelle. 
 
+https://siga.care/wp-content/themes/siga/images/classification_2020.png
 
-
-
-
-https://siga.care/indice-siga/
 
 En plus de ce sigle, SIGA attribue des médailles à des produits. La médaille d’or est pour les meilleurs élèves, elle indique dans chaque catégorie de produits les meilleures recettes. Il s’agit par exemple du cookie “super fin et croustillant aux éclats de chocolat noir” de Michel et Augustin, bien que ce produit soit chiffré 4, transformé et gourmand ou encore de la soupe Innocent Gazpacho. 
 https://siga.care/indice-siga/
