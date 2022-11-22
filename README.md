@@ -68,9 +68,11 @@ Il y a trois grandes catégories (A,B et C), elles-mêmes divisées en sous cat�
 
 
 ![classification_2020](https://user-images.githubusercontent.com/115630287/203439556-3d8135df-8e76-4b85-8e3a-9265d9c876b7.png)
-
+https://siga.care/indice-siga/
 
 En plus de ce sigle, SIGA attribue des médailles à des produits. La médaille d’or est pour les meilleurs élèves, elle indique dans chaque catégorie de produits les meilleures recettes. Il s’agit par exemple du cookie “super fin et croustillant aux éclats de chocolat noir” de Michel et Augustin, bien que ce produit soit chiffré 4, transformé et gourmand ou encore de la soupe Innocent Gazpacho. 
+![PM_gazpa_inno](https://user-images.githubusercontent.com/115630287/203439913-4a9acdce-98d5-425c-acd2-0bc39e8b80af.png)
+
 https://siga.care/indice-siga/
 
 Il y a également la médaille d’argent, attribuée aux bons élèves. Cette dernière indique les articles qui se distinguent de la concurrence du fait de leur recette ou composition. 
@@ -88,9 +90,7 @@ Les équipes de SIGA appellent toutes les parties prenantes de la chaîne agro-a
 
 L’application SIGA permet de bien choisir ses produits en scannant les produits et en découvrant ainsi leur degrés de transformation. Il permet d’avoir accès à son profil nutritionnel, aux additifs détectés, … Elle propose également des alternatives aux produits trop transformés. 
 
-
-
-https://siga.care/indice-siga/ 
-
+![purification](https://user-images.githubusercontent.com/115630287/203439712-9963c276-072a-472f-94b3-5b292caed202.png)
+https://siga.care/indice-siga/
 
 Source: site SIGA 
