@@ -48,6 +48,7 @@ Le groupe 3 regroupe les aliments transformés qui résultent du mélange d’in
 
 Les ingrédients du groupe 4 sont les aliments ultra-transformés. Leur définition est toutefois assez peu précise. La classification précise tout d’abord qu’ils concentrent généralement 5 ingrédients ou plus et que les aliments du groupe 1 ne représentent qu’une proportion faible ou (quasi)absente des aliments ultra transformés. On retrouve des substances seulement présentes dans ce type d’aliments qui sont directement issues de procédés industriels. Il y a par exemple les additifs industriels servant à modifier le goût, l’apparence, la conservation comme les arômes artificiels, les émulsifiants, les colorants ou les conservateurs. Il y a également des ingrédients extraits directement d’aliments suite à des procédés industriels comme le “cracking alimentaire”, l'hydrolyse ou l’hydrogénation permettant d’obtenir des amidons de maïs modifiés, des isolats de protéine, du sirop de glucose-fructose ou de l’huile de palme hydrogénée pour ne citer qu’eux. Tous ces procédés contribuent à la dégradation des produits d’origine et résultent en des apports énergétiques plus importants pour une plus faible part des micronutriments protecteurs. 
 
+![Classification-NOVA_1](https://user-images.githubusercontent.com/115630287/203443248-8af0e8f1-9bcb-4dc5-8068-e8decede63e0.png)
 
 
 
