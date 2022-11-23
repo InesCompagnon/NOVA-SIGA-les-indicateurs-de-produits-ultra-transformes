@@ -163,7 +163,74 @@ L’article UFC Que Choisir souligne le “service aux industriels” qu’offre
 De pair avec la critique du manque de considération de “l’équilibre alimentaire”, une dénonciation de l’usage du terme “gourmand pour les produits dont il faut  limiter la consommation” est avancée par UFC Que Choisir. Utilisée par le grand public, cette appellation pourrait en effet se révéler problématique si elle ne s’accompagne pas d’une explication ou d’un complément d’un autre indicateur (nutri-score, yuka,...). 
 Deuxièmement, lors de notre enquête, nous avons été grandement surpris.e.s de constater le peu de produits référencés par l’application. Lors d’un passage dans une épicerie de grande distribution, nous n’avons trouvé qu’un ou deux produits après de nombreux essais. L’application peut alors être qualifiée pour l’instant de niches, présente uniquement dans certains magasins d'industriels partenaires (notamment Biocoop et Franprix). 
 
-## Notre micro-trottoir 
+## Analyse des résultats de notre questionnaire:
+
+Afin d’étudier la perception des scores et classifications ainsi que leur influence sur les comportements de consommation, nous avons créé un questionnaire en ligne accessible au lien suivant : https://forms.gle/H6QWnQhE8rJ16vqq6, pour lequel nous avons pu recueillir 239 réponses. 
+
+Les points de vue institutionnels des créateurs de classifications et les critiques envers celles-ci étaient facilement accessibles en ligne. Or, il nous a paru intéressant de compléter ces informations par une consultation directe des consommateurs sur les sujets propres à notre étude. 
+
+Nous reconnaissons que notre panel est loin d’être représentatif de l’ensemble de la population (comme le seraient des sondages institutionnels répondant aux lois probabilistes en la matière) mais nous avons fait au mieux pour essayer de constituer un échantillon assez large. Sans postuler que l’âge est le facteur principal influençant les comportements d’achat, nous l’avons identifié comme un élément important pour mesurer la diversité des répondants. 
+
+
+
+Nous avons également demandé si les personnes interrogées faisaient leurs courses et cuisinaient elles-mêmes afin de s’assurer que les réponses sont bien pertinentes. 
+
+
+
+
+
+
+### Connaissance et perception de l’ultra-transformation
+A la suite de ce que nous avions trouvé sur l’impact de l’alimentation sur la santé, il nous semblait intéressant de questionner le point de vue des personnes sur les facteurs les plus impactants d’un aliment sur la santé. 
+
+Bien que les spots publicitaires ou représentations traditionnelles centrées autour des apports nutritionnels et la limitation des aliments “trop gras, trop sucrés, trop salés”, ces éléments sont perçus comme relativement moins importants que les conditions de production ou le degré de transformation.
+En effet, l’ultra-transformation des aliments est citée par ⅔ des répondants comme facteur très impactant sur la santé. Les conditions de production (notamment les résidus de pesticide) sont identifiées par la moitié des répondants comme très importantes et par 30% comme importantes. 
+
+Les apports nutritionnels sont quant à eux très importants pour près de 45% des répondants, un chiffre proche du nombre de personnes les considérant importants. 
+Enfin l’indice calorique, très mis en valeur sur les produits aux Etats-Unis par exemple, représente un facteur relativement moins important pour les consommateurs. 
+Ainsi, bien que ces critères soient majoritairement identifiés comme importants ou très importants, des différences apparaissent, mettant notamment en évidence la prépondérance de l’ultra-transformation. 
+Cette prépondérance de l’ultra-transformation peut s’expliquer par le fait que l’indicateur puisse être perçu comme la somme de différents problèmes (la disparition de nutriments, la présence d’additifs, des propriétés nutritionnelles dégradées). 
+De plus, notre étude cible ce sujet en particulier. En le mettant en valeur, il est possible que cela ait influencé le choix des personnes sondées. Cette hypothèse permet d’illustrer que la manière de construire un sondage ou de poser les questions peut influencer les réponses. 
+
+
+Nous avons également souhaité interroger les comportements d’achat qui peuvent parfois illustrer une dissonance entre les déclarations et les actions. Ces résultats ne nous donnent pas la proportion d’aliments ultra-transformés consommés qui se mesurerait par leur part dans l’apport calorique journalier (et qui est estimé à plus de 30% en France). Ils permettent toutefois de montrer que ⅔ des individus interrogés en consomment occasionnellement ou régulièrement, bien que les conséquences sur la santé soient bien identifiées. 
+
+La connaissance de ce qu’est un aliment ultra-transformé semble assez répandue et n’expliquerait une déformation des réponses par manque de compréhension des termes de la question. Ces résultats sont également intéressants dans la perception des indicateurs du degré de transformation par les consommateurs. 
+Par ailleurs, nous verrons ci-dessous que les répondants sont intéressés par une présence d'étiquetage accrue pour aider au choix des produits. Ainsi, si les répondants voient globalement ce qu’est un aliment ultra-transformé, la définition et son application à chaque produit est plus complexe. 
+
+
+### Connaissance et importance des scores
+Ainsi, la majorité des répondants disent connaître ce qu’est un aliment ultra-transformé et l’identifie comme très important dans la relation alimentation et santé. 
+
+Or, les classifications que nous avons étudiées semblent très peu connues des consommateurs puisque près de 9 sondés sur 10 avouent ne jamais en avoir entendu parler (ce qui était également notre cas). 
+
+Nous pouvons aussi rappeler que ce sondage a été partagé sur des groupes facebook de personnes soucieuses de leur alimentation ce qui peut également sur-représenter la connaissance de ces indicateurs. 
+
+Nous avons ensuite posé la question de l’influence de l’ensemble des scores et classifications sur les choix de consommation puis plus précisément de ceux indiquant le degré de transformation (NOVA et Siga). 
+
+
+Il est intéressant de noter que de manière générale, près de la moitié des personnes disent apprécier que ces scores soient affichés pour une information plus claire et que 38% disent que cela peut affecter leur comportement d’achat. Nous voyons que le rôle d’information, par une manière simple et visuelle, est ainsi plus ou moins apprécié et efficace pour influencer les comportements. 
+Cette observation reste limitée notamment lorsque l’on compare nos résultats avec les enquêtes publiées par Santé publique France dans son dossier de septembre 2019 (Santé publique France, 2019). En effet, dans l’article évaluant la notoriété, perception et impact du nutri-score sur les comportements d’achat, l’enquête met en avant des opinions très bonnes des consommateurs vers cette classification. Selon les résultats de l’étude : “la grande majorité des personnes ayant entendu parler ou vu le logo considère qu’il donne une information rapide (92 %), qu’il est facile à comprendre (90 %) [...] ou qu’il guide les consommateurs dans leurs achats (86 %). Les ¾ ont confance dans les informations qu’il fournit et environ 7 sur 10 considèrent qu’il peut rendre méfant vis‑à‑vis de certains produits”. La notoriété semble par ailleurs progresser en même temps que l’apparition progressive du logo sur les emballages et 90% des individus interrogés indiquent être favorables à un affichage obligatoire sur tous les produits. 
+
+Nos résultats se distinguent par plus de nuance et une adhésion moindre des consommateurs. Ceci pourrait se justifier par la manière de conduire l’enquête et le fait ou une prise en compte large des scores (pas seulement NOVA, Siga ou le nutri-score). 
+En effet, lorsque nous avons questionné les sondés sur les classifications des produits ultra-transformés, les réponses positives ont été relativement plus nombreuses. 48% des sondés déclarent que cela affecterait leur comportement de consommation et 55% disent qu’ils aimeraient que plus de produits les affichent (contre 38% et 48% pour les scores plus généraux). 
+
+Il nous est difficile de donner les raisons exactes d’une telle différence. Nous l’avons dit ci-dessus, ces classifications sont peu connues des consommateurs (environ 7% des répondants) alors que l’enjeu de l’ultra-transformation est perçue comme très importante. Nous pourrions émettre l’hypothèse qu’une moins bonne connaissance des indicateurs peut attiser la curiosité envers ceux-ci notamment lorsque les consommateurs identifient un problème pouvant sembler complexe à cerner (notre enquête vidéo a illustré que les compositions des aliments sont peu souvent regardées et difficiles à comprendre). 
+Nous pouvons aussi poursuivre notre hypothèse sur le fait que centrer notre questionnaire sur l’ultra-transformation peut inciter les consommateurs à répondre plus positivement à nos questions relatives à ce sujet. 
+
+
+
+### Légitimité et remise en question des classifications
+Enfin, notre analyse montre qu’une part importante des sondés (près de 15%) disent ne pas faire confiance à ces scores, en préférant alors regarder eux-mêmes la composition ou selon leurs propres critères (si le produit semble de qualité, sain, bio ou utilisation de yuka). Il aurait été intéressant de connaître les raisons spécifiques poussant les personnes à douter ou ne pas faire confiance à ces scores. 
+Comme souligné dans notre article sur la critique de ces scores, nous supposons que les critères de construction ne sont pas connus de tous les consommateurs et peuvent ainsi sembler opaques. En outre, un outil de classification est en général porté par un acteur spécifique, qui peut être économique, institutionnel ou citoyen, ce qui peut affecter leur légitimité. Enfin, les bases de données collaboratives en open data et la contribution des industriels peuvent être critiquées. 
+Pour SIGA, nous nous sommes aperçus que très peu de produits affichaient l’étiquette de la classification, ce qui peut affecter la faible notoriété du score. Les règles d’attribution des scores et des médailles récompensant les produits exemplaires sont également assez floues et soumises à l’influence des industriels, ce qui n’est pas sans critique (comme précisé dans notre article à ce sujet). 
+Ces critiques vont dans le sens de ce que nous avons vu dans l’enseignement La vie sociale des données. En effet, les organismes porteurs d’une classification vont défendre ses critères de mesure et peuvent la faire évoluer en fonction des critiques. Par exemple, Yuka a beaucoup répondu sur sa base de données en rappelant de manière pédagogique comment celle-ci a été constituée et était indépendante. L’affichage de nutri-score se développe également, même sur les produits classés D ou E (soit la plus mauvaise note). Santé publique France, en charge du Nutr-score, informe régulièrement sur le mode de calcul et la transparence de l’indicateur.
+
+
+### Conclusion : 
+Le sondage mené est ainsi utile pour préciser nos recherches sur ces différentes classifications et notamment leur influence et la perception des consommateurs. Cela nous permet également de voir que les réponses à un sondage ne peuvent que prétendre représenter des opinions et non pas traduire la réalité de l’ensemble de la population. Dans son ouvrage L’opinion publique n’existe pas, Pierre Bourdieu apporte de nombreuses critiques aux méthodes de sondage, qui dépassent les simples nécessités d’échantillonnage représentatif (mais aussi la manière de poser les questions, les termes utilisés…). 
+
+## Notre micro-trottoir :
 Suite à un problème de taille du fichier, nous n'avons pas réussi à uploader la vidéo ici, nous vous l'envoyons via mail. 
 
 
