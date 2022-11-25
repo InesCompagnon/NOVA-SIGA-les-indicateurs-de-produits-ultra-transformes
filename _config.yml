@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
-toc flaot: yes
+output: 
+html_document :
 toc : true 
+toc_float: true 
+  
+  
