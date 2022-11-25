@@ -171,11 +171,12 @@ Les points de vue institutionnels des créateurs de classifications et les criti
 
 Nous reconnaissons que notre panel est loin d’être représentatif de l’ensemble de la population (comme le seraient des sondages institutionnels répondant aux lois probabilistes en la matière) mais nous avons fait au mieux pour essayer de constituer un échantillon assez large. Sans postuler que l’âge est le facteur principal influençant les comportements d’achat, nous l’avons identifié comme un élément important pour mesurer la diversité des répondants. 
 
+![j'ai un bel âge](https://user-images.githubusercontent.com/115630287/204049999-dcb18e6c-9ae1-4d72-b14f-2de65ea19bb6.png)
 
 
 Nous avons également demandé si les personnes interrogées faisaient leurs courses et cuisinaient elles-mêmes afin de s’assurer que les réponses sont bien pertinentes. 
 
-
+![Je fais mes courses](https://user-images.githubusercontent.com/115630287/204050233-82802583-fba7-4fba-aa69-200eba701f4f.png)
 
 
 
@@ -186,14 +187,21 @@ A la suite de ce que nous avions trouvé sur l’impact de l’alimentation sur 
 Bien que les spots publicitaires ou représentations traditionnelles centrées autour des apports nutritionnels et la limitation des aliments “trop gras, trop sucrés, trop salés”, ces éléments sont perçus comme relativement moins importants que les conditions de production ou le degré de transformation.
 En effet, l’ultra-transformation des aliments est citée par ⅔ des répondants comme facteur très impactant sur la santé. Les conditions de production (notamment les résidus de pesticide) sont identifiées par la moitié des répondants comme très importantes et par 30% comme importantes. 
 
+![3e graph](https://user-images.githubusercontent.com/115630287/204050388-dd1f309b-60b6-4cf5-8999-8b06ceaea9c4.png)
+
 Les apports nutritionnels sont quant à eux très importants pour près de 45% des répondants, un chiffre proche du nombre de personnes les considérant importants. 
 Enfin l’indice calorique, très mis en valeur sur les produits aux Etats-Unis par exemple, représente un facteur relativement moins important pour les consommateurs. 
 Ainsi, bien que ces critères soient majoritairement identifiés comme importants ou très importants, des différences apparaissent, mettant notamment en évidence la prépondérance de l’ultra-transformation. 
 Cette prépondérance de l’ultra-transformation peut s’expliquer par le fait que l’indicateur puisse être perçu comme la somme de différents problèmes (la disparition de nutriments, la présence d’additifs, des propriétés nutritionnelles dégradées). 
 De plus, notre étude cible ce sujet en particulier. En le mettant en valeur, il est possible que cela ait influencé le choix des personnes sondées. Cette hypothèse permet d’illustrer que la manière de construire un sondage ou de poser les questions peut influencer les réponses. 
 
+![Graph 4](https://user-images.githubusercontent.com/115630287/204050510-38e688c6-fcfc-495d-9616-89f0a027ee3d.png)
+
 
 Nous avons également souhaité interroger les comportements d’achat qui peuvent parfois illustrer une dissonance entre les déclarations et les actions. Ces résultats ne nous donnent pas la proportion d’aliments ultra-transformés consommés qui se mesurerait par leur part dans l’apport calorique journalier (et qui est estimé à plus de 30% en France). Ils permettent toutefois de montrer que ⅔ des individus interrogés en consomment occasionnellement ou régulièrement, bien que les conséquences sur la santé soient bien identifiées. 
+
+![GRaph 5](https://user-images.githubusercontent.com/115630287/204050548-fb911c4c-5578-47cf-9adb-c1e32688b7aa.png)
+
 
 La connaissance de ce qu’est un aliment ultra-transformé semble assez répandue et n’expliquerait une déformation des réponses par manque de compréhension des termes de la question. Ces résultats sont également intéressants dans la perception des indicateurs du degré de transformation par les consommateurs. 
 Par ailleurs, nous verrons ci-dessous que les répondants sont intéressés par une présence d'étiquetage accrue pour aider au choix des produits. Ainsi, si les répondants voient globalement ce qu’est un aliment ultra-transformé, la définition et son application à chaque produit est plus complexe. 
@@ -204,9 +212,14 @@ Ainsi, la majorité des répondants disent connaître ce qu’est un aliment ult
 
 Or, les classifications que nous avons étudiées semblent très peu connues des consommateurs puisque près de 9 sondés sur 10 avouent ne jamais en avoir entendu parler (ce qui était également notre cas). 
 
+![connaissez-vous siga_](https://user-images.githubusercontent.com/115630287/204049759-c90dc529-ae36-4dfd-a473-c90e34b7d36c.png)
+
+
 Nous pouvons aussi rappeler que ce sondage a été partagé sur des groupes facebook de personnes soucieuses de leur alimentation ce qui peut également sur-représenter la connaissance de ces indicateurs. 
 
 Nous avons ensuite posé la question de l’influence de l’ensemble des scores et classifications sur les choix de consommation puis plus précisément de ceux indiquant le degré de transformation (NOVA et Siga). 
+
+![Pour vous ces scores _ classifications sont-ils utiles pour orienter vos choix de consommation](https://user-images.githubusercontent.com/115630287/204050326-e968f41b-a089-4028-ae28-320fba45de06.png)
 
 
 Il est intéressant de noter que de manière générale, près de la moitié des personnes disent apprécier que ces scores soient affichés pour une information plus claire et que 38% disent que cela peut affecter leur comportement d’achat. Nous voyons que le rôle d’information, par une manière simple et visuelle, est ainsi plus ou moins apprécié et efficace pour influencer les comportements. 
@@ -214,6 +227,9 @@ Cette observation reste limitée notamment lorsque l’on compare nos résultats
 
 Nos résultats se distinguent par plus de nuance et une adhésion moindre des consommateurs. Ceci pourrait se justifier par la manière de conduire l’enquête et le fait ou une prise en compte large des scores (pas seulement NOVA, Siga ou le nutri-score). 
 En effet, lorsque nous avons questionné les sondés sur les classifications des produits ultra-transformés, les réponses positives ont été relativement plus nombreuses. 48% des sondés déclarent que cela affecterait leur comportement de consommation et 55% disent qu’ils aimeraient que plus de produits les affichent (contre 38% et 48% pour les scores plus généraux). 
+
+![Graph 8](https://user-images.githubusercontent.com/115630287/204050616-381ea739-9986-4011-aa51-c5128eb1f5ca.png)
+
 
 Il nous est difficile de donner les raisons exactes d’une telle différence. Nous l’avons dit ci-dessus, ces classifications sont peu connues des consommateurs (environ 7% des répondants) alors que l’enjeu de l’ultra-transformation est perçue comme très importante. Nous pourrions émettre l’hypothèse qu’une moins bonne connaissance des indicateurs peut attiser la curiosité envers ceux-ci notamment lorsque les consommateurs identifient un problème pouvant sembler complexe à cerner (notre enquête vidéo a illustré que les compositions des aliments sont peu souvent regardées et difficiles à comprendre). 
 Nous pouvons aussi poursuivre notre hypothèse sur le fait que centrer notre questionnaire sur l’ultra-transformation peut inciter les consommateurs à répondre plus positivement à nos questions relatives à ce sujet. 
@@ -229,10 +245,12 @@ Ces critiques vont dans le sens de ce que nous avons vu dans l’enseignement La
 
 ### Conclusion : 
 Le sondage mené est ainsi utile pour préciser nos recherches sur ces différentes classifications et notamment leur influence et la perception des consommateurs. Cela nous permet également de voir que les réponses à un sondage ne peuvent que prétendre représenter des opinions et non pas traduire la réalité de l’ensemble de la population. Dans son ouvrage L’opinion publique n’existe pas, Pierre Bourdieu apporte de nombreuses critiques aux méthodes de sondage, qui dépassent les simples nécessités d’échantillonnage représentatif (mais aussi la manière de poser les questions, les termes utilisés…). 
+![Dernier image](https://user-images.githubusercontent.com/115630287/204050641-34a2582e-a8a9-4f58-bdc6-39ea580cee4c.jpg)
+
 
 ## Notre micro-trottoir :
-Suite à un problème de taille du fichier, nous n'avons pas réussi à uploader la vidéo ici, nous vous l'envoyons via mail. 
-
+ 
+https://drive.google.com/file/d/1y1lo6Nd9iDn5Tcdz4B6QJpYveUdfuHqu/view?usp=sharing
 
 ## Conclusion
 Pour conclure, cette enquête a été très instructive et nos hypothèses initiales ont été quelque peu challengées. Bien qu’il en ressorte que la composition des aliments intéresse et est considérée par les consommateurs lors de leurs achats, c’est l’incompréhension de celle-ci qui semble le plus universel chez nos répondants et dans la littérature lue. Ainsi, notre enquête souligne la volonté des consommateurs à “bien s’alimenter” mais également la préeminence du questionnement “qu’est ce que ça veut dire et comment faire ?”. Les consommateurs mettent en avant la complexité des additifs et la méconnaissance de la définition exacte du terme “aliments ultra transformés”. Ainsi, les indicateurs NOVA et SIGA apparaissent comme utiles et répondent à une demande des consommateurs. Il est donc étonnant de percevoir la faible connaissance et très faible utilisation par le grand public des outils des indicateurs (applications, sites web,...). Cette difficulté à s’imposer chez les consommateurs n’est donc pas due à un manque d’intérêt par ces derniers, manger des aliments le moins transformé possible représente de plus en plus une priorité pour les consommateurs. Cela pourrait davantage être dû aux liens trop fort des indicateurs avec l’industrie agroalimentaire, les industriels apparaissant donc comme les premiers clients de NOVA et SIGA. Ces liens semblent cependant inévitables pour le moment car les données des industriels sont les premières sources des deux indicateurs. 
